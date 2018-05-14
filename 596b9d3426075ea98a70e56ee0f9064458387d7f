@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "2534635d_d4b4edd2",
+        "filename": "pom.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1011123
+      },
+      "writtenOn": "2018-05-14T23:12:29Z",
+      "side": 1,
+      "message": "Optional: Build with bazel instead of maven.",
+      "revId": "596b9d3426075ea98a70e56ee0f9064458387d7f",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "94930b68_97e07de9",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/autotopic/AutoTopicListener.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1011123
+      },
+      "writtenOn": "2018-05-14T23:12:29Z",
+      "side": 1,
+      "message": "Please format the code with google-java-format for consistency with the rest of core Gerrit and most recent plugins.",
+      "revId": "596b9d3426075ea98a70e56ee0f9064458387d7f",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "9cd9cde5_b2984428",
+        "filename": "src/main/java/com/googlesource/gerrit/plugins/autotopic/AutoTopicListener.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 1011123
+      },
+      "writtenOn": "2018-05-14T23:12:29Z",
+      "side": 1,
+      "message": "Should be final.",
+      "revId": "596b9d3426075ea98a70e56ee0f9064458387d7f",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    }
+  ]
+}
